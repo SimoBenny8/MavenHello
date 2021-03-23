@@ -11,6 +11,8 @@ public class HelloWorld {
 		 logger1.info("hello world!");
 		 System.out.println("Add a new Hello World");
 
+		 System.out.println("New Hello World!");
+
 	}
 
 }
